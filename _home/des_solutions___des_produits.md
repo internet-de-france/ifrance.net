@@ -19,3 +19,5 @@ Technos
 * ReactJS, redux, node.js, MongoDB, GraphQL
 * Jekyll, Gatsby, Hugo
 * Strapi, React admin, Jekyll Admin
+
+{% include ./cta-contact.md %}
