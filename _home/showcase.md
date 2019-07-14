@@ -2,25 +2,17 @@
 title: Showcase
 
 ---
-## Nos réalisations
+## Nos réalisations récentes
 
-### [Silex website builder](https://www.silex.me)
+### APIs Google et chat bots
 
-Editeur de site web pour designers, alternative open source à Wix
+Développement d'un système de génération de chat bots à partir de documents Google docs
 
-### [Monitoshi, website uptime monitoring](https://monitoshi.com/)
+### Détection de fraudes électorales
 
-Système de monitoring de sites web
+Développement d'une plateforme de détection des fraudes électorales. Cette web app se présente sous la forme d'une interface permettant de visualiser des statistiques venant de sources de données telles que SMS, formulaire web, tweets, emails, ...
 
-### Cloud explorer & Unifile
-
-Librairie de manipulation de fichiers sur Github, Dropbox, NextCloud, SFTP et autres
-
-### [Responsize](http://www.responsize.org/)
-
-Outil de visualisation de sites à différentes tailles d'écran
-
-### [Grrhost](https://lexoyo.me/GrrHost/)
-
-Partage de fichiers basé sur Github Pages
-
+GDP.fr
+Notre propre site
+Nouveau logo du logiciel Silex
+Kebab, cameo, site AML
