@@ -14,13 +14,13 @@ Système de monitoring de sites web
 
 ### Cloud explorer & Unifile
 
-Librairie de manipulation de fichiers sur Github, Dropbox, NextCloud, SFTP et autres.
+Librairie de manipulation de fichiers sur Github, Dropbox, NextCloud, SFTP et autres
 
-Build products faster
-Reach more people
-Market places, different versions of a product for each cloud provider
-Case study: cloud analyzer (CLI), backnode (webapp)
-Responsize
-Preview with responsive in mind
-Grrhost
-Hosting, easy setup, versioned, git based
+### [Responsize](http://www.responsize.org/)
+
+Outil de visualisation de sites à différentes tailles d'écran
+
+### [Grrhost](https://lexoyo.me/GrrHost/)
+
+Partage de fichiers basé sur Github Pages
+
