@@ -23,4 +23,6 @@ Technos
 * Javascript, Typescript
 * Strapi, React admin, Jekyll Admin
 
-{% include ./cta-contact.md %}
+
+[Contact](#contact)
+[Réalisations](#showcase)
