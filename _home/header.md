@@ -8,7 +8,5 @@ title: Header
 
 Vos plateformes, web apps et chat bots développés rapidement avec des outils modernes.
 
-
-{% include ./cta-contact.md %}
-
-{% include ./cta-showcase.md %}
+[Contact](#contact)
+[Réalisations](#showcase)
